@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyMoney</string>
+
+    //bottom app bar
+    <string name="trans">Trans</string>
+    <string name="Stats">Stats</string>
+    <string name="Account">Account</string>
+    <string name="More">More</string>
+
+    //top app bar
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="select">Select</string>
+    <string name="search">Search</string>
+    <string name="bookmark">Bookmark</string>
+
+    // top trans screen
+    <string name="daily">Daily</string>
+    <string name="calendar">Calender</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+
+    // income + expenses + total
+    <string name="income">Income</string>
+    <string name="expenses">expenses</string>
+    <string name="total">Total</string>
+</resources>
